@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 75%;
-  border: 3px solid white;
+  border: 4px dotted white;
   transition: all .5s;
 }
 header .profile-image:hover {
