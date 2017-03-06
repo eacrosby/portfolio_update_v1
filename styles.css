@@ -102,6 +102,16 @@ header .profile-image:hover {
   border-color: orange;
 }
 
+.sports_logos {
+  margin: auto;
+}
+
+.sports_logos img {
+  max-width: 125px;
+  display: inline-block;
+  padding: 30px 8px;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
